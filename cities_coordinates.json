@@ -12,9 +12,321 @@
     "lon": -0.1278
   },
   {
+    "id": "paris",
+    "displayName": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
     "id": "tokyo",
     "displayName": "Tokyo",
     "lat": 35.6762,
     "lon": 139.6503
+  },
+  {
+    "id": "sydney",
+    "displayName": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  {
+    "id": "dubai",
+    "displayName": "Dubai",
+    "lat": 25.2048,
+    "lon": 55.2708
+  },
+  {
+    "id": "singapore",
+    "displayName": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  {
+    "id": "hong_kong",
+    "displayName": "Hong Kong",
+    "lat": 22.3193,
+    "lon": 114.1694
+  },
+  {
+    "id": "mumbai",
+    "displayName": "Mumbai",
+    "lat": 19.0760,
+    "lon": 72.8777
+  },
+  {
+    "id": "moscow",
+    "displayName": "Moscow",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "berlin",
+    "displayName": "Berlin",
+    "lat": 52.5200,
+    "lon": 13.4050
+  },
+  {
+    "id": "los_angeles",
+    "displayName": "Los Angeles",
+    "lat": 34.0522,
+    "lon": -118.2437
+  },
+  {
+    "id": "chicago",
+    "displayName": "Chicago",
+    "lat": 41.8781,
+    "lon": -87.6298
+  },
+  {
+    "id": "toronto",
+    "displayName": "Toronto",
+    "lat": 43.6532,
+    "lon": -79.3832
+  },
+  {
+    "id": "sao_paulo",
+    "displayName": "São Paulo",
+    "lat": -23.5505,
+    "lon": -46.6333
+  },
+  {
+    "id": "seoul",
+    "displayName": "Seoul",
+    "lat": 37.5665,
+    "lon": 126.9780
+  },
+  {
+    "id": "bangkok",
+    "displayName": "Bangkok",
+    "lat": 13.7563,
+    "lon": 100.5018
+  },
+  {
+    "id": "istanbul",
+    "displayName": "Istanbul",
+    "lat": 41.0082,
+    "lon": 28.9784
+  },
+  {
+    "id": "rome",
+    "displayName": "Rome",
+    "lat": 41.9028,
+    "lon": 12.4964
+  },
+  {
+    "id": "madrid",
+    "displayName": "Madrid",
+    "lat": 40.4168,
+    "lon": -3.7038
+  },
+  {
+    "id": "amman",
+    "displayName": "Amman",
+    "lat": 31.9454,
+    "lon": 35.9284
+  },
+  {
+    "id": "kuwait_city",
+    "displayName": "Kuwait City",
+    "lat": 29.3759,
+    "lon": 47.9774
+  },
+  {
+    "id": "riyadh",
+    "displayName": "Riyadh",
+    "lat": 24.7136,
+    "lon": 46.6753
+  },
+  {
+    "id": "doha",
+    "displayName": "Doha",
+    "lat": 25.2854,
+    "lon": 51.5310
+  },
+  {
+    "id": "manama",
+    "displayName": "Manama",
+    "lat": 26.2285,
+    "lon": 50.5860
+  },
+  {
+    "id": "muscat",
+    "displayName": "Muscat",
+    "lat": 23.5880,
+    "lon": 58.3829
+  },
+  {
+    "id": "jerusalem",
+    "displayName": "Jerusalem",
+    "lat": 31.7683,
+    "lon": 35.2137
+  },
+  {
+    "id": "beirut",
+    "displayName": "Beirut",
+    "lat": 33.8938,
+    "lon": 35.5018
+  },
+  {
+    "id": "damascus",
+    "displayName": "Damascus",
+    "lat": 33.5138,
+    "lon": 36.2765
+  },
+  {
+    "id": "baghdad",
+    "displayName": "Baghdad",
+    "lat": 33.3152,
+    "lon": 44.3661
+  },
+  {
+    "id": "cairo",
+    "displayName": "Cairo",
+    "lat": 30.0444,
+    "lon": 31.2357
+  },
+  {
+    "id": "johannesburg",
+    "displayName": "Johannesburg",
+    "lat": -26.2041,
+    "lon": 28.0473
+  },
+  {
+    "id": "nairobi",
+    "displayName": "Nairobi",
+    "lat": -1.2921,
+    "lon": 36.8219
+  },
+  {
+    "id": "lagos",
+    "displayName": "Lagos",
+    "lat": 6.5244,
+    "lon": 3.3792
+  },
+  {
+    "id": "mexico_city",
+    "displayName": "Mexico City",
+    "lat": 19.4326,
+    "lon": -99.1332
+  },
+  {
+    "id": "denver",
+    "displayName": "Denver",
+    "lat": 39.7392,
+    "lon": -104.9903
+  },
+  {
+    "id": "phoenix",
+    "displayName": "Phoenix",
+    "lat": 33.4484,
+    "lon": -112.0740
+  },
+  {
+    "id": "jakarta",
+    "displayName": "Jakarta",
+    "lat": -6.2088,
+    "lon": 106.8456
+  },
+  {
+    "id": "manila",
+    "displayName": "Manila",
+    "lat": 14.5995,
+    "lon": 120.9842
+  },
+  {
+    "id": "shanghai",
+    "displayName": "Shanghai",
+    "lat": 31.2304,
+    "lon": 121.4737
+  },
+  {
+    "id": "beijing",
+    "displayName": "Beijing",
+    "lat": 39.9042,
+    "lon": 116.4074
+  },
+  {
+    "id": "delhi",
+    "displayName": "Delhi",
+    "lat": 28.7041,
+    "lon": 77.1025
+  },
+  {
+    "id": "karachi",
+    "displayName": "Karachi",
+    "lat": 24.8607,
+    "lon": 67.0011
+  },
+  {
+    "id": "dhaka",
+    "displayName": "Dhaka",
+    "lat": 23.8103,
+    "lon": 90.4125
+  },
+  {
+    "id": "auckland",
+    "displayName": "Auckland",
+    "lat": -36.8485,
+    "lon": 174.7633
+  },
+  {
+    "id": "san_francisco",
+    "displayName": "San Francisco",
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  {
+    "id": "seattle",
+    "displayName": "Seattle",
+    "lat": 47.6062,
+    "lon": -122.3321
+  },
+  {
+    "id": "miami",
+    "displayName": "Miami",
+    "lat": 25.7617,
+    "lon": -80.1918
+  },
+  {
+    "id": "vancouver",
+    "displayName": "Vancouver",
+    "lat": 49.2827,
+    "lon": -123.1207
+  },
+  {
+    "id": "montreal",
+    "displayName": "Montreal",
+    "lat": 45.5017,
+    "lon": -73.5673
+  },
+  {
+    "id": "buenos_aires",
+    "displayName": "Buenos Aires",
+    "lat": -34.6037,
+    "lon": -58.3816
+  },
+  {
+    "id": "santiago",
+    "displayName": "Santiago",
+    "lat": -33.4489,
+    "lon": -70.6693
+  },
+  {
+    "id": "lima",
+    "displayName": "Lima",
+    "lat": -12.0464,
+    "lon": -77.0428
+  },
+  {
+    "id": "bogota",
+    "displayName": "Bogotá",
+    "lat": 4.7110,
+    "lon": -74.0721
+  },
+  {
+    "id": "casablanca",
+    "displayName": "Casablanca",
+    "lat": 33.5731,
+    "lon": -7.5898
   }
 ]
