@@ -1,12 +1,12 @@
 [
   {
-    id: Pacific/Midway,
-    displayName: Midway,
-    timezoneId: Pacific/Midway
+    "id": "Pacific/Midway",
+    "displayName": "Midway",
+    "timezoneId": "Pacific/Midway"
   },
   {
-    id: Europe/London,
-    displayName: London,
-    timezoneId: Europe/London
+    "id": "Europe/London",
+    "displayName": "London",
+"timezoneId: "Europe/London"
   }
 ]
