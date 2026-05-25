@@ -1,12 +1,107 @@
 [
   {
-    "id": "Pacific/Midway",
-    "displayName": "Midway",
-    "timezoneId": "Pacific/Midway"
+    "id": "Asia/Amman",
+    "displayName": "Amman",
+    "timezoneId": "Asia/Amman"
   },
   {
     "id": "Europe/London",
     "displayName": "London",
-"timezoneId": "Europe/London"
+    "timezoneId": "Europe/London"
+  },
+  {
+    "id": "America/New_York",
+    "displayName": "New York",
+    "timezoneId": "America/New_York"
+  },
+  {
+    "id": "America/Los_Angeles",
+    "displayName": "Los Angeles",
+    "timezoneId": "America/Los_Angeles"
+  },
+  {
+    "id": "Asia/Dubai",
+    "displayName": "Dubai",
+    "timezoneId": "Asia/Dubai"
+  },
+  {
+    "id": "Asia/Tokyo",
+    "displayName": "Tokyo",
+    "timezoneId": "Asia/Tokyo"
+  },
+  {
+    "id": "Australia/Sydney",
+    "displayName": "Sydney",
+    "timezoneId": "Australia/Sydney"
+  },
+  {
+    "id": "Europe/Paris",
+    "displayName": "Paris",
+    "timezoneId": "Europe/Paris"
+  },
+  {
+    "id": "Asia/Kolkata",
+    "displayName": "India",
+    "timezoneId": "Asia/Kolkata"
+  },
+  {
+    "id": "Asia/Riyadh",
+    "displayName": "Riyadh",
+    "timezoneId": "Asia/Riyadh"
+  },
+  {
+    "id": "America/Chicago",
+    "displayName": "Chicago",
+    "timezoneId": "America/Chicago"
+  },
+  {
+    "id": "Asia/Shanghai",
+    "displayName": "Shanghai",
+    "timezoneId": "Asia/Shanghai"
+  },
+  {
+    "id": "Europe/Berlin",
+    "displayName": "Berlin",
+    "timezoneId": "Europe/Berlin"
+  },
+  {
+    "id": "America/Toronto",
+    "displayName": "Toronto",
+    "timezoneId": "America/Toronto"
+  },
+  {
+    "id": "Asia/Singapore",
+    "displayName": "Singapore",
+    "timezoneId": "Asia/Singapore"
+  },
+  {
+    "id": "Europe/Moscow",
+    "displayName": "Moscow",
+    "timezoneId": "Europe/Moscow"
+  },
+  {
+    "id": "Asia/Seoul",
+    "displayName": "Seoul",
+    "timezoneId": "Asia/Seoul"
+  },
+  {
+    "id": "America/Sao_Paulo",
+    "displayName": "São Paulo",
+    "timezoneId": "America/Sao_Paulo"
+  },
+  {
+    "id": "Africa/Cairo",
+    "displayName": "Cairo",
+    "timezoneId": "Africa/Cairo"
+  },
+  {
+    "id": "Asia/Tehran",
+    "displayName": "Tehran",
+    "timezoneId": "Asia/Tehran"
+  },
+  {
+    "id": "Pacific/Auckland",
+    "displayName": "Auckland",
+    "timezoneId": "Pacific/Auckland"
   }
 ]
