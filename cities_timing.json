@@ -5,6 +5,56 @@
     "timezoneId": "Asia/Amman"
   },
   {
+    "id": "Asia/Kuwait",
+    "displayName": "Kuwait City",
+    "timezoneId": "Asia/Kuwait"
+  },
+  {
+    "id": "Asia/Riyadh",
+    "displayName": "Riyadh",
+    "timezoneId": "Asia/Riyadh"
+  },
+  {
+    "id": "Asia/Dubai",
+    "displayName": "Dubai",
+    "timezoneId": "Asia/Dubai"
+  },
+  {
+    "id": "Asia/Doha",
+    "displayName": "Doha",
+    "timezoneId": "Asia/Doha"
+  },
+  {
+    "id": "Asia/Bahrain",
+    "displayName": "Manama",
+    "timezoneId": "Asia/Bahrain"
+  },
+  {
+    "id": "Asia/Muscat",
+    "displayName": "Muscat",
+    "timezoneId": "Asia/Muscat"
+  },
+  {
+    "id": "Asia/Jerusalem",
+    "displayName": "Jerusalem",
+    "timezoneId": "Asia/Jerusalem"
+  },
+  {
+    "id": "Asia/Beirut",
+    "displayName": "Beirut",
+    "timezoneId": "Asia/Beirut"
+  },
+  {
+    "id": "Asia/Damascus",
+    "displayName": "Damascus",
+    "timezoneId": "Asia/Damascus"
+  },
+  {
+    "id": "Asia/Baghdad",
+    "displayName": "Baghdad",
+    "timezoneId": "Asia/Baghdad"
+  },
+  {
     "id": "Europe/London",
     "displayName": "London",
     "timezoneId": "Europe/London"
@@ -18,11 +68,6 @@
     "id": "America/Los_Angeles",
     "displayName": "Los Angeles",
     "timezoneId": "America/Los_Angeles"
-  },
-  {
-    "id": "Asia/Dubai",
-    "displayName": "Dubai",
-    "timezoneId": "Asia/Dubai"
   },
   {
     "id": "Asia/Tokyo",
@@ -41,13 +86,8 @@
   },
   {
     "id": "Asia/Kolkata",
-    "displayName": "India",
+    "displayName": "Mumbai",
     "timezoneId": "Asia/Kolkata"
-  },
-  {
-    "id": "Asia/Riyadh",
-    "displayName": "Riyadh",
-    "timezoneId": "Asia/Riyadh"
   },
   {
     "id": "America/Chicago",
@@ -103,5 +143,60 @@
     "id": "Pacific/Auckland",
     "displayName": "Auckland",
     "timezoneId": "Pacific/Auckland"
+  },
+  {
+    "id": "Africa/Johannesburg",
+    "displayName": "Johannesburg",
+    "timezoneId": "Africa/Johannesburg"
+  },
+  {
+    "id": "America/Mexico_City",
+    "displayName": "Mexico City",
+    "timezoneId": "America/Mexico_City"
+  },
+  {
+    "id": "America/Denver",
+    "displayName": "Denver",
+    "timezoneId": "America/Denver"
+  },
+  {
+    "id": "America/Phoenix",
+    "displayName": "Phoenix",
+    "timezoneId": "America/Phoenix"
+  },
+  {
+    "id": "Asia/Jakarta",
+    "displayName": "Jakarta",
+    "timezoneId": "Asia/Jakarta"
+  },
+  {
+    "id": "Asia/Bangkok",
+    "displayName": "Bangkok",
+    "timezoneId": "Asia/Bangkok"
+  },
+  {
+    "id": "Asia/Manila",
+    "displayName": "Manila",
+    "timezoneId": "Asia/Manila"
+  },
+  {
+    "id": "Asia/Hong_Kong",
+    "displayName": "Hong Kong",
+    "timezoneId": "Asia/Hong_Kong"
+  },
+  {
+    "id": "Europe/Istanbul",
+    "displayName": "Istanbul",
+    "timezoneId": "Europe/Istanbul"
+  },
+  {
+    "id": "Europe/Rome",
+    "displayName": "Rome",
+    "timezoneId": "Europe/Rome"
+  },
+  {
+    "id": "Europe/Madrid",
+    "displayName": "Madrid",
+    "timezoneId": "Europe/Madrid"
   }
 ]
