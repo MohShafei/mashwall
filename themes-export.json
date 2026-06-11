@@ -34710,7 +34710,7 @@
     "updatedAt": "2026-04-21T17:14:05.000Z",
     "docId": "unicorn1"
   }
-]  {
+, {
     "docId": "my-themexxxxx",
     "name": "My Theme xxxxx",
     "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_my-theme.jpg",
