@@ -1,7 +1,7 @@
 [
   {
     "docId": "0001-rectangle",
-    "name": "Rectanglesc",
+    "name": "Rectangles",
     "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_138.jpg",
     "mask": null,
     "popular": true,
@@ -144,7 +144,7 @@
       "dayEnglishFontIndex": 6,
       "batteryColor": "0xFFFFFFFF"
     },
-    "updatedAt": "2026-06-11 19:54:38",
+    "updatedAt": "2026-06-11T19:12:49.122Z",
     "updatedBy": "mash.company.info@gmail.com"
   },
   {
