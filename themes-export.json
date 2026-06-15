@@ -23584,7 +23584,25 @@
     "docId": "fighterhhh"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "fishhdh",
+    "name": "Fish",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_229.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_229.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "mollusk",
+      "wildlife",
+      "oxygen mask",
+      "black",
+      "device",
+      "eye",
+      "invertebrate",
+      "bird",
+      "close",
+      "light"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -23739,26 +23757,8 @@
       "dayEnglishFontIndex": 14,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_229.jpg",
-    "name": "Fish",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_229.png",
-    "tags": [
-      "mollusk",
-      "wildlife",
-      "oxygen mask",
-      "black",
-      "device",
-      "eye",
-      "invertebrate",
-      "bird",
-      "close",
-      "light"
-    ],
-    "status": "published",
-    "updatedAt": "2026-05-29T22:22:41.442Z",
-    "docId": "fishhdh"
+    "updatedAt": "2026-05-29T22:22:41.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -24770,7 +24770,19 @@
     "docId": "garfield"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "gray-wall",
+    "name": "Gray Wall",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_163.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_163.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "wallpaper",
+      "gray",
+      "abstract",
+      "3d"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -24906,23 +24918,21 @@
       "dayEnglishFontIndex": 54,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_163.jpg",
-    "name": "Gray Wall",
+    "updatedAt": "2026-04-14T16:48:44.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
+  },
+  {
+    "docId": "green",
+    "name": "Green",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_145.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_145.png",
+    "popular": true,
     "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_163.png",
     "tags": [
-      "wallpaper",
-      "gray",
-      "abstract",
+      "green",
       "3d"
     ],
     "status": "published",
-    "updatedAt": "2026-04-14T16:48:44.965Z",
-    "docId": "gray-wall"
-  },
-  {
-    "updatedBy": "mash.company.info@gmail.com",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -25058,18 +25068,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_145.jpg",
-    "name": "Green",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_145.png",
-    "tags": [
-      "green",
-      "3d"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-04T09:27:01.836Z",
-    "docId": "green"
+    "updatedAt": "2026-04-04T09:27:01.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -25586,7 +25586,20 @@
     "docId": "gt3"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "hala-madrid",
+    "name": "Hala Madrid",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_160.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_160.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "ronaldo",
+      "benzima",
+      "sentiago",
+      "madrid",
+      "spain"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -25722,21 +25735,8 @@
       "dayEnglishFontIndex": 9,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_160.jpg",
-    "name": "Hala Madrid",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_160.png",
-    "tags": [
-      "ronaldo",
-      "benzima",
-      "sentiago",
-      "madrid",
-      "spain"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-08T16:10:53.747Z",
-    "docId": "hala-madrid"
+    "updatedAt": "2026-04-08T16:10:53.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -28588,7 +28588,27 @@
     "docId": "mercedesb"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "metal8",
+    "name": "Metal Arrows",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_218.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_218.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "spoke",
+      "device",
+      "support",
+      "light",
+      "equipment",
+      "sky",
+      "digital",
+      "technology",
+      "close",
+      "metal",
+      "industry",
+      "plant"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -28742,28 +28762,8 @@
       "dayEnglishFontIndex": 8,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_218.jpg",
-    "name": "Metal Arrows",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_218.png",
-    "tags": [
-      "spoke",
-      "device",
-      "support",
-      "light",
-      "equipment",
-      "sky",
-      "digital",
-      "technology",
-      "close",
-      "metal",
-      "industry",
-      "plant"
-    ],
-    "status": "published",
-    "updatedAt": "2026-05-23T14:06:00.920Z",
-    "docId": "metal8"
+    "updatedAt": "2026-05-23T14:06:00.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -30060,7 +30060,27 @@
     "docId": "notebook"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "oasis-ii",
+    "name": "Oasis II",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_206.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_206.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "coconut",
+      "tree",
+      "palm",
+      "tropical",
+      "beach",
+      "sea",
+      "ocean",
+      "island",
+      "sand",
+      "seascape",
+      "sky",
+      "paradise"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -30214,31 +30234,25 @@
       "dayEnglishFontIndex": 8,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_206.jpg",
-    "name": "Oasis II",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_206.png",
-    "tags": [
-      "coconut",
-      "tree",
-      "palm",
-      "tropical",
-      "beach",
-      "sea",
-      "ocean",
-      "island",
-      "sand",
-      "seascape",
-      "sky",
-      "paradise"
-    ],
-    "status": "published",
-    "updatedAt": "2026-05-18T17:50:33.263Z",
-    "docId": "oasis-ii"
+    "updatedAt": "2026-05-18T17:50:33.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "orange-abstract",
+    "name": "orange abstract",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_143.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_143.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "3d",
+      "render",
+      "character",
+      "icon",
+      "sign",
+      "business"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -30374,22 +30388,8 @@
       "dayEnglishFontIndex": 32,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_143.jpg",
-    "name": "orange abstract",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_143.png",
-    "tags": [
-      "3d",
-      "render",
-      "character",
-      "icon",
-      "sign",
-      "business"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-04T09:01:54.045Z",
-    "docId": "orange-abstract"
+    "updatedAt": "2026-04-04T09:01:54.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -31058,7 +31058,25 @@
     "docId": "parroth"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "porchejjhh",
+    "name": "Porche",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_233.jpg",
+    "mask": null,
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "car",
+      "racer",
+      "motor vehicle",
+      "vehicle",
+      "auto",
+      "automobile",
+      "speed",
+      "wheel",
+      "garage",
+      "road"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -31213,26 +31231,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_233.jpg",
-    "name": "Porche",
-    "category": "general",
-    "popular": false,
-    "mask": null,
-    "tags": [
-      "car",
-      "racer",
-      "motor vehicle",
-      "vehicle",
-      "auto",
-      "automobile",
-      "speed",
-      "wheel",
-      "garage",
-      "road"
-    ],
-    "status": "published",
     "updatedAt": "2026-06-05T19:10:01.000Z",
-    "docId": "porchejjhh"
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -31411,7 +31411,22 @@
     "docId": "rabbithhh"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "real-madrid-ii",
+    "name": "Real Madrid II",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_159.jpg",
+    "mask": null,
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "madrid",
+      "real",
+      "ronaldo",
+      "white",
+      "black",
+      "sport",
+      "logo"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -31547,23 +31562,8 @@
       "dayEnglishFontIndex": 53,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_159.jpg",
-    "name": "Real Madrid II",
-    "category": "general",
-    "popular": false,
-    "mask": null,
-    "tags": [
-      "madrid",
-      "real",
-      "ronaldo",
-      "white",
-      "black",
-      "sport",
-      "logo"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-08T15:57:42.057Z",
-    "docId": "real-madrid-ii"
+    "updatedAt": "2026-04-08T15:57:42.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -32026,7 +32026,29 @@
     "docId": "rm"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "ronaldo-ii",
+    "name": "Ronaldo II",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_139.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_139.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "real madrid",
+      "spain",
+      "football",
+      "ball",
+      "game equipment",
+      "man",
+      "person",
+      "male",
+      "adult",
+      "back",
+      "equipment",
+      "people",
+      "sport",
+      "handsome"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -32162,33 +32184,31 @@
       "dayEnglishFontIndex": 8,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_139.jpg",
-    "name": "Ronaldo II",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_139.png",
-    "tags": [
-      "real madrid",
-      "spain",
-      "football",
-      "ball",
-      "game equipment",
-      "man",
-      "person",
-      "male",
-      "adult",
-      "back",
-      "equipment",
-      "people",
-      "sport",
-      "handsome"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T20:17:01.367Z",
-    "docId": "ronaldo-ii"
+    "updatedAt": "2026-04-03T20:17:01.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "rose-sunsetf",
+    "name": "Rose Sunset",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_199.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_199.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "sun",
+      "star",
+      "celestial body",
+      "sea",
+      "sky",
+      "sunset",
+      "water",
+      "ocean",
+      "sunrise",
+      "reflection",
+      "horizon",
+      "clouds"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -32342,28 +32362,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_199.jpg",
-    "name": "Rose Sunset",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_199.png",
-    "tags": [
-      "sun",
-      "star",
-      "celestial body",
-      "sea",
-      "sky",
-      "sunset",
-      "water",
-      "ocean",
-      "sunrise",
-      "reflection",
-      "horizon",
-      "clouds"
-    ],
-    "status": "published",
-    "updatedAt": "2026-05-05T16:24:21.913Z",
-    "docId": "rose-sunsetf"
+    "updatedAt": "2026-05-05T16:24:21.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -32536,7 +32536,27 @@
     "docId": "shapes"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "sheeph",
+    "name": "Sheep",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_224.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_224.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "goggles",
+      "sunglasses",
+      "portrait",
+      "face",
+      "person",
+      "adult",
+      "fashion",
+      "glasses",
+      "attractive",
+      "fun",
+      "pretty",
+      "model"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -32691,28 +32711,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_224.jpg",
-    "name": "Sheep",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_224.png",
-    "tags": [
-      "goggles",
-      "sunglasses",
-      "portrait",
-      "face",
-      "person",
-      "adult",
-      "fashion",
-      "glasses",
-      "attractive",
-      "fun",
-      "pretty",
-      "model"
-    ],
-    "status": "published",
-    "updatedAt": "2026-05-26T22:39:26.586Z",
-    "docId": "sheeph"
+    "updatedAt": "2026-05-26T22:39:26.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -33246,7 +33246,22 @@
     "docId": "spidermanzzzz"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "squad-game",
+    "name": "Squad Game",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_181.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_181.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "game",
+      "movie",
+      "tv",
+      "series",
+      "action",
+      "person",
+      "character"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -33398,23 +33413,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_181.jpg",
-    "name": "Squad Game",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_181.png",
-    "tags": [
-      "game",
-      "movie",
-      "tv",
-      "series",
-      "action",
-      "person",
-      "character"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-21T21:37:06.874Z",
-    "docId": "squad-game"
+    "updatedAt": "2026-04-21T21:37:06.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -33743,7 +33743,27 @@
     "docId": "sunset-ii"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "sunset-iiih",
+    "name": "Sunset III",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_198.jpg",
+    "mask": null,
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "sun",
+      "sea",
+      "sky",
+      "ocean",
+      "seascape",
+      "sunset",
+      "water",
+      "beach",
+      "landscape",
+      "star",
+      "horizon",
+      "clouds"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -33897,31 +33917,25 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_198.jpg",
-    "name": "Sunset III",
-    "category": "general",
-    "popular": false,
-    "mask": null,
-    "tags": [
-      "sun",
-      "sea",
-      "sky",
-      "ocean",
-      "seascape",
-      "sunset",
-      "water",
-      "beach",
-      "landscape",
-      "star",
-      "horizon",
-      "clouds"
-    ],
-    "status": "published",
-    "updatedAt": "2026-05-05T16:07:55.121Z",
-    "docId": "sunset-iiih"
+    "updatedAt": "2026-05-05T16:07:55.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "superman1",
+    "name": "superman II",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_173.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_173.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "spiderman",
+      "character",
+      "building",
+      "climbing",
+      "action",
+      "movie superman"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -34060,25 +34074,24 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_173.jpg",
-    "name": "superman II",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_173.png",
-    "tags": [
-      "spiderman",
-      "character",
-      "building",
-      "climbing",
-      "action",
-      "movie superman"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-17T14:54:10.786Z",
-    "docId": "superman1"
+    "updatedAt": "2026-04-17T14:54:10.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "tennis",
+    "name": "tennis",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_150.jpg",
+    "mask": null,
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "red",
+      "sport",
+      "cool",
+      "nice",
+      "3d"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -34214,21 +34227,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_150.jpg",
-    "name": "tennis",
-    "category": "general",
-    "popular": false,
-    "mask": null,
-    "tags": [
-      "red",
-      "sport",
-      "cool",
-      "nice",
-      "3d"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-06T22:12:14.615Z",
-    "docId": "tennis"
+    "updatedAt": "2026-04-06T22:12:14.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
