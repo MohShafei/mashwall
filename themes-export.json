@@ -148,7 +148,27 @@
     "updatedBy": "mash.company.info@gmail.com"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0002-stitch",
+    "name": "Stitch ❤️",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_137.jpg?j=5",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_137.png?j=5",
+    "popular": false,
+    "category": "general",
+    "tags": [
+      "cartoon",
+      "clip art",
+      "cute",
+      "art",
+      "drawing",
+      "fun",
+      "animal",
+      "child",
+      "character",
+      "cutout",
+      "happy",
+      "funny"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -272,28 +292,8 @@
       "dayEnglishFontIndex": 4,
       "batteryColor": "0xFFD44F4F"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_137.jpg?j=5",
-    "name": "Stitch ❤️",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_137.png?j=5",
-    "tags": [
-      "cartoon",
-      "clip art",
-      "cute",
-      "art",
-      "drawing",
-      "fun",
-      "animal",
-      "child",
-      "character",
-      "cutout",
-      "happy",
-      "funny"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:21:55.778Z",
-    "docId": "0002-stitch"
+    "updatedAt": "2026-04-03 17:21:55",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "docId": "0003-bmw",
@@ -440,7 +440,7 @@
       "dayEnglishFontIndex": 30,
       "batteryColor": "0xFFFFFFFF"
     },
-    "updatedAt": "2026-06-15T08:30:38.692Z",
+    "updatedAt": "2026-04-04T14:22:41.000Z",
     "updatedBy": "mash.company.info@gmail.com"
   },
   {
@@ -2444,7 +2444,7 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "updatedAt": "2026-06-15T08:40:26.820Z",
+    "updatedAt": "2026-04-15T08:40:26.000Z",
     "updatedBy": "mash.company.info@gmail.com"
   },
   {
@@ -3011,7 +3011,7 @@
       "enableParallax": false,
       "parallaxStrength": 1
     },
-    "updatedAt": "2026-06-15T08:41:29.701Z",
+    "updatedAt": "2026-04-15T08:41:29.000Z",
     "updatedBy": ""
   },
   {
@@ -3307,7 +3307,7 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFF000000"
     },
-    "updatedAt": "2026-06-15T08:43:23.702Z",
+    "updatedAt": "2026-05-15T08:43:23.000Z",
     "updatedBy": "mash.company.info@gmail.com"
   },
   {
@@ -4594,7 +4594,17 @@
     "docId": "0032-eid-mubarak"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0033-space-ii",
+    "name": "Space II",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_97.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_97.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "masked",
+      "weather"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -4733,20 +4743,20 @@
       "dayEnglishFontIndex": 8,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_97.jpg",
-    "name": "Space II",
+    "updatedAt": "2026-04-15T20:29:56.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
+  },
+  {
+    "docId": "0034-space",
+    "name": "Space",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_96.jpg",
+    "mask": null,
+    "popular": true,
     "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_97.png",
     "tags": [
-      "masked",
       "weather"
     ],
     "status": "published",
-    "updatedAt": "2026-04-15T20:29:56.318Z",
-    "docId": "0033-space-ii"
-  },
-  {
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -4870,14 +4880,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_96.jpg",
-    "name": "Space",
-    "category": "general",
-    "updatedAt": "2026-04-03T11:33:13.981Z",
-    "tags": [
-      "weather"
-    ],
-    "docId": "0034-space"
+    "updatedAt": "2026-04-03T11:33:13.000Z",
+    "updatedBy": ""
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -5007,7 +5011,27 @@
     "docId": "0035-raphinha"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0036-guitar",
+    "name": "Guitar",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_94.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_94.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "acoustic guitar",
+      "guitar",
+      "acoustic",
+      "stringed instrument",
+      "music",
+      "instrument",
+      "musical",
+      "musical instrument",
+      "string",
+      "sound",
+      "rock",
+      "musician"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -5131,28 +5155,8 @@
       "dayEnglishFontIndex": 10,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_94.jpg",
-    "name": "Guitar",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_94.png",
-    "tags": [
-      "acoustic guitar",
-      "guitar",
-      "acoustic",
-      "stringed instrument",
-      "music",
-      "instrument",
-      "musical",
-      "musical instrument",
-      "string",
-      "sound",
-      "rock",
-      "musician"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:53:18.618Z",
-    "docId": "0036-guitar"
+    "updatedAt": "2026-04-03T14:53:18.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -5441,7 +5445,16 @@
     "docId": "0038-barcelona"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0039-messi",
+    "name": "Messi",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_91.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_91.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "masked"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -5565,17 +5578,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_91.jpg",
-    "name": "Messi",
-    "category": "general",
-    "popular": true,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_91.png",
-    "tags": [
-      "masked"
-    ],
-    "status": "published",
-    "updatedAt": "2026-06-09T21:10:37.068Z",
-    "docId": "0039-messi"
+    "updatedAt": "2026-05-09T21:10:37.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -6010,6 +6014,17 @@
     "docId": "0042-madrid"
   },
   {
+    "docId": "0043-moon",
+    "name": "Moon",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_87.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_87.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "masked",
+      "weather"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -6120,16 +6135,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_87.jpg",
-    "name": "Moon",
-    "category": "general",
-    "updatedAt": "2026-04-03T11:33:13.981Z",
-    "tags": [
-      "masked",
-      "weather"
-    ],
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_87.png",
-    "docId": "0043-moon"
+    "updatedAt": "2026-04-03T11:33:13.000Z",
+    "updatedBy": ""
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
