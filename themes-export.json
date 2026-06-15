@@ -6281,7 +6281,27 @@
     "docId": "0044-cpu"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0045-labubu",
+    "name": "Labubu",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_85.jpg",
+    "mask": null,
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "cartoon",
+      "child",
+      "cute",
+      "lady",
+      "happy",
+      "people",
+      "fashion",
+      "fun",
+      "smile",
+      "face",
+      "attractive",
+      "person"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -6397,28 +6417,8 @@
       "dayEnglishFontIndex": 14,
       "batteryColor": "0xFF000000"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_85.jpg",
-    "name": "Labubu",
-    "category": "general",
-    "popular": false,
-    "mask": null,
-    "tags": [
-      "cartoon",
-      "child",
-      "cute",
-      "lady",
-      "happy",
-      "people",
-      "fashion",
-      "fun",
-      "smile",
-      "face",
-      "attractive",
-      "person"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:54:06.183Z",
-    "docId": "0045-labubu"
+    "updatedAt": "2026-04-03T14:54:06.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -6690,7 +6690,28 @@
     "docId": "0047-purple-shapes"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0048-bb",
+    "name": "BB",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_82.jpg? k=4",
+    "mask": null,
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "mask",
+      "astronaut",
+      "statue",
+      "uniform",
+      "breaking bad",
+      "man",
+      "protective covering",
+      "covering",
+      "helmet",
+      "male",
+      "military",
+      "soldier",
+      "person"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -6804,29 +6825,8 @@
       "dayEnglishFontIndex": 14,
       "batteryColor": "0xFF000000"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_82.jpg? k=4",
-    "name": "BB",
-    "category": "general",
-    "popular": false,
-    "mask": null,
-    "tags": [
-      "mask",
-      "astronaut",
-      "statue",
-      "uniform",
-      "breaking bad",
-      "man",
-      "protective covering",
-      "covering",
-      "helmet",
-      "male",
-      "military",
-      "soldier",
-      "person"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:30:43.538Z",
-    "docId": "0048-bb"
+    "updatedAt": "2026-04-03T14:30:43.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -7642,7 +7642,27 @@
     "docId": "0054-bears-rainbow"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0055-ghost",
+    "name": "Ghost",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_75.jpg",
+    "mask": null,
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "bodybuilder",
+      "black",
+      "body",
+      "anatomy",
+      "human",
+      "medical",
+      "science",
+      "health",
+      "biology",
+      "graphic",
+      "3d",
+      "transparent"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -7756,28 +7776,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFF8ADFE5"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_75.jpg",
-    "name": "Ghost",
-    "category": "general",
-    "popular": false,
-    "mask": null,
-    "tags": [
-      "bodybuilder",
-      "black",
-      "body",
-      "anatomy",
-      "human",
-      "medical",
-      "science",
-      "health",
-      "biology",
-      "graphic",
-      "3d",
-      "transparent"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:51:47.618Z",
-    "docId": "0055-ghost"
+    "updatedAt": "2026-04-03T14:51:47.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "clockSettings": {
@@ -8437,7 +8437,27 @@
     "docId": "0060-cartoon"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0061-tom-jerry",
+    "name": "Tom & Jerry",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_69.jpg",
+    "mask": null,
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "moon",
+      "cartoon",
+      "art",
+      "sorcerer",
+      "pumpkin",
+      "night",
+      "design",
+      "holiday",
+      "celebration",
+      "graphic",
+      "fun",
+      "card"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -8547,28 +8567,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_69.jpg",
-    "name": "Tom & Jerry",
-    "category": "general",
-    "popular": false,
-    "mask": null,
-    "tags": [
-      "moon",
-      "cartoon",
-      "art",
-      "sorcerer",
-      "pumpkin",
-      "night",
-      "design",
-      "holiday",
-      "celebration",
-      "graphic",
-      "fun",
-      "card"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:27:28.317Z",
-    "docId": "0061-tom-jerry"
+    "updatedAt": "2026-04-03T14:27:28.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -9107,7 +9107,27 @@
     "docId": "0065-the-mask"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0066-mask",
+    "name": "Mask",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_64.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_64.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "statue",
+      "crutch",
+      "sculpture",
+      "mask",
+      "old",
+      "staff",
+      "architecture",
+      "stick",
+      "building",
+      "wall",
+      "man",
+      "person"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -9217,31 +9237,31 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFF8ADFE5"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_64.jpg",
-    "name": "Mask",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_64.png",
-    "tags": [
-      "statue",
-      "crutch",
-      "sculpture",
-      "mask",
-      "old",
-      "staff",
-      "architecture",
-      "stick",
-      "building",
-      "wall",
-      "man",
-      "person"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T15:29:41.412Z",
-    "docId": "0066-mask"
+    "updatedAt": "2026-04-03T15:29:41.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0067-colored-sea",
+    "name": "Colored Sea",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_63.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_63.png",
+    "popular": true,
+    "category": "nature",
+    "tags": [
+      "ocean",
+      "body of water",
+      "sea",
+      "beach",
+      "water",
+      "coast",
+      "summer",
+      "landscape",
+      "sand",
+      "wave",
+      "sky",
+      "travel"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -9355,28 +9375,8 @@
       "dayEnglishFontIndex": 7,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_63.jpg",
-    "name": "Colored Sea",
-    "category": "nature",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_63.png",
-    "tags": [
-      "ocean",
-      "body of water",
-      "sea",
-      "beach",
-      "water",
-      "coast",
-      "summer",
-      "landscape",
-      "sand",
-      "wave",
-      "sky",
-      "travel"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:39:22.259Z",
-    "docId": "0067-colored-sea"
+    "updatedAt": "2026-04-03T14:39:22.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "clockSettings": {
@@ -9502,7 +9502,27 @@
     "docId": "0068-sands"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0069-green-beach",
+    "name": "Green Beach",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_61.jpg? hk=4",
+    "mask": null,
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "sand",
+      "beach",
+      "sea",
+      "soil",
+      "ocean",
+      "water",
+      "earth",
+      "summer",
+      "tropical",
+      "coast",
+      "travel",
+      "vacation"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -9616,28 +9636,8 @@
       "dayEnglishFontIndex": 13,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_61.jpg? hk=4",
-    "name": "Green Beach",
-    "category": "general",
-    "popular": false,
-    "mask": null,
-    "tags": [
-      "sand",
-      "beach",
-      "sea",
-      "soil",
-      "ocean",
-      "water",
-      "earth",
-      "summer",
-      "tropical",
-      "coast",
-      "travel",
-      "vacation"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:52:37.739Z",
-    "docId": "0069-green-beach"
+    "updatedAt": "2026-04-03T14:52:37.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "clockSettings": {
@@ -10157,6 +10157,17 @@
     "docId": "0073-white-and-blue"
   },
   {
+    "docId": "0074-wall",
+    "name": "Wall",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_56.jpg? k=4",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_56.png?j=5",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "masked",
+      "weather"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -10270,16 +10281,8 @@
       "dayEnglishFontIndex": 9,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_56.jpg? k=4",
-    "name": "Wall",
-    "category": "general",
-    "tags": [
-      "masked",
-      "weather"
-    ],
-    "updatedAt": "2026-04-03T11:33:13.981Z",
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_56.png?j=5",
-    "docId": "0074-wall"
+    "updatedAt": "2026-04-03T11:33:13.000Z",
+    "updatedBy": ""
   },
   {
     "clockSettings": {
@@ -10406,6 +10409,16 @@
     "docId": "0075-tigers"
   },
   {
+    "docId": "0076-sharks",
+    "name": "Sharks",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_54.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_54.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "masked"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -10519,18 +10532,31 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_54.jpg",
-    "name": "Sharks",
-    "category": "general",
-    "updatedAt": "2026-04-03T11:33:13.981Z",
-    "tags": [
-      "masked"
-    ],
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_54.png",
-    "docId": "0076-sharks"
+    "updatedAt": "2026-04-03T11:33:13.000Z",
+    "updatedBy": ""
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0077-panda-ii",
+    "name": "Panda II",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_53.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_53.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "teddy",
+      "plaything",
+      "cute",
+      "doll",
+      "toy",
+      "bear",
+      "portrait",
+      "child",
+      "face",
+      "childhood",
+      "eyes",
+      "fashion"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -10644,31 +10670,31 @@
       "dayEnglishFontIndex": 7,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_53.jpg",
-    "name": "Panda II",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_53.png",
-    "tags": [
-      "teddy",
-      "plaything",
-      "cute",
-      "doll",
-      "toy",
-      "bear",
-      "portrait",
-      "child",
-      "face",
-      "childhood",
-      "eyes",
-      "fashion"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T15:30:24.486Z",
-    "docId": "0077-panda-ii"
+    "updatedAt": "2026-04-03T15:30:24.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0078-duck-ii",
+    "name": "Duck II",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_52.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_52.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "mask",
+      "covering",
+      "disguise",
+      "face",
+      "portrait",
+      "person",
+      "attire",
+      "model",
+      "black",
+      "eyes",
+      "clothing",
+      "hair"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -10782,28 +10808,8 @@
       "dayEnglishFontIndex": 4,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_52.jpg",
-    "name": "Duck II",
-    "category": "general",
-    "popular": true,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_52.png",
-    "tags": [
-      "mask",
-      "covering",
-      "disguise",
-      "face",
-      "portrait",
-      "person",
-      "attire",
-      "model",
-      "black",
-      "eyes",
-      "clothing",
-      "hair"
-    ],
-    "status": "published",
     "updatedAt": "2026-04-03T14:50:13.000Z",
-    "docId": "0078-duck-ii"
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -11212,7 +11218,27 @@
     "docId": "0081-boy"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0082-abstract-iii",
+    "name": "Abstract III",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_48.jpg",
+    "mask": null,
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "balloon",
+      "wallpaper",
+      "graphic",
+      "design",
+      "fractal",
+      "digital",
+      "pattern",
+      "backdrop",
+      "texture",
+      "curve",
+      "light",
+      "wave"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -11326,31 +11352,31 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFF000000"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_48.jpg",
-    "name": "Abstract III",
-    "category": "general",
-    "popular": false,
-    "mask": null,
-    "tags": [
-      "balloon",
-      "wallpaper",
-      "graphic",
-      "design",
-      "fractal",
-      "digital",
-      "pattern",
-      "backdrop",
-      "texture",
-      "curve",
-      "light",
-      "wave"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:29:41.163Z",
-    "docId": "0082-abstract-iii"
+    "updatedAt": "2026-04-03T14:29:41.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0083-abstract-ii",
+    "name": "Abstract II",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_47.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_47.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "digital",
+      "render",
+      "curve",
+      "art",
+      "light",
+      "fractal",
+      "motion",
+      "graphic",
+      "design",
+      "wallpaper",
+      "pattern",
+      "smoke"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -11464,28 +11490,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFF000000"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_47.jpg",
-    "name": "Abstract II",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_47.png",
-    "tags": [
-      "digital",
-      "render",
-      "curve",
-      "art",
-      "light",
-      "fractal",
-      "motion",
-      "graphic",
-      "design",
-      "wallpaper",
-      "pattern",
-      "smoke"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:29:28.363Z",
-    "docId": "0083-abstract-ii"
+    "updatedAt": "2026-04-03T14:29:28.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -12579,7 +12585,27 @@
     "docId": "0091-blue-mountain"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0092-green-tree",
+    "name": "Green Tree",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_38.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_38.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "tree",
+      "ocean",
+      "beach",
+      "island",
+      "sea",
+      "tropical",
+      "sand",
+      "sky",
+      "water",
+      "palm",
+      "vacation",
+      "summer"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -12693,28 +12719,8 @@
       "dayEnglishFontIndex": 9,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_38.jpg",
-    "name": "Green Tree",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_38.png",
-    "tags": [
-      "tree",
-      "ocean",
-      "beach",
-      "island",
-      "sea",
-      "tropical",
-      "sand",
-      "sky",
-      "water",
-      "palm",
-      "vacation",
-      "summer"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:53:09.329Z",
-    "docId": "0092-green-tree"
+    "updatedAt": "2026-04-03T14:53:09.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -12855,6 +12861,17 @@
     "docId": "0093-bronze"
   },
   {
+    "docId": "0094-purple",
+    "name": "purple",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_36.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_36.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "masked",
+      "weather"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -12968,16 +12985,8 @@
       "dayEnglishFontIndex": 12,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_36.jpg",
-    "name": "purple",
-    "category": "general",
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_36.png",
-    "updatedAt": "2026-04-03T11:33:13.981Z",
-    "tags": [
-      "masked",
-      "weather"
-    ],
-    "docId": "0094-purple"
+    "updatedAt": "2026-04-03T11:33:13.000Z",
+    "updatedBy": ""
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -13382,6 +13391,16 @@
     "docId": "0097-seagull"
   },
   {
+    "docId": "0098-spidrtman-ii",
+    "name": "Spidrtman II",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_32.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_32.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "masked"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -13495,15 +13514,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_32.jpg",
-    "name": "Spidrtman II",
-    "category": "general",
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_32.png",
-    "tags": [
-      "masked"
-    ],
-    "updatedAt": "2026-04-03T11:33:13.981Z",
-    "docId": "0098-spidrtman-ii"
+    "updatedAt": "2026-04-03T11:33:13.000Z",
+    "updatedBy": ""
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -14551,7 +14563,27 @@
     "docId": "0106-gold-porsche"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0107-f1",
+    "name": "F1",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_23.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_23.png?hs=1",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "automaton",
+      "device",
+      "equipment",
+      "car",
+      "transportation",
+      "industry",
+      "man",
+      "vehicle",
+      "black",
+      "seat",
+      "sport",
+      "helmet"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -14665,28 +14697,8 @@
       "dayEnglishFontIndex": 28,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_23.jpg",
-    "name": "F1",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_23.png?hs=1",
-    "tags": [
-      "automaton",
-      "device",
-      "equipment",
-      "car",
-      "transportation",
-      "industry",
-      "man",
-      "vehicle",
-      "black",
-      "seat",
-      "sport",
-      "helmet"
-    ],
-    "status": "published",
     "updatedAt": "2026-04-03T14:51:17.000Z",
-    "docId": "0107-f1"
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
