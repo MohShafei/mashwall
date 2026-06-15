@@ -296,7 +296,27 @@
     "docId": "0002-stitch"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0003-bmw",
+    "name": "BMW",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_136.jpg?j=5",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_136.png?j=5",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "car",
+      "motor vehicle",
+      "vehicle",
+      "automobile",
+      "auto",
+      "speed",
+      "transportation",
+      "racer",
+      "wheel",
+      "headlight",
+      "drive",
+      "sports car"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -420,28 +440,8 @@
       "dayEnglishFontIndex": 30,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_136.jpg?j=5",
-    "name": "BMW",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_136.png?j=5",
-    "tags": [
-      "car",
-      "motor vehicle",
-      "vehicle",
-      "automobile",
-      "auto",
-      "speed",
-      "transportation",
-      "racer",
-      "wheel",
-      "headlight",
-      "drive",
-      "sports car"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:22:25.783Z",
-    "docId": "0003-bmw"
+    "updatedAt": "2026-06-15T08:30:38.692Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -2300,7 +2300,27 @@
     "docId": "0016-tulip-flowers"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0017-fall",
+    "name": "Fall",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_123.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_123.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "boathouse",
+      "shed",
+      "pier",
+      "building",
+      "water",
+      "outbuilding",
+      "sky",
+      "bridge",
+      "structure",
+      "support",
+      "landscape",
+      "tower"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 1,
       "arabicDayStrokeGradientAngle": 0,
@@ -2424,28 +2444,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_123.jpg",
-    "name": "Fall",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_123.png",
-    "tags": [
-      "boathouse",
-      "shed",
-      "pier",
-      "building",
-      "water",
-      "outbuilding",
-      "sky",
-      "bridge",
-      "structure",
-      "support",
-      "landscape",
-      "tower"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:20:55.460Z",
-    "docId": "0017-fall"
+    "updatedAt": "2026-06-15T08:40:26.820Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "name": "winnie the pooh",
@@ -2878,9 +2878,16 @@
     "docId": "0020-off-road"
   },
   {
+    "docId": "0021-roma",
     "name": "Roma",
     "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_119.jpg",
     "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_119.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "masked"
+    ],
+    "status": "published",
     "clockSettings": {
       "textColor": "0xFF293335",
       "textSizePercent": 40.445282,
@@ -3004,12 +3011,8 @@
       "enableParallax": false,
       "parallaxStrength": 1
     },
-    "category": "general",
-    "tags": [
-      "masked"
-    ],
-    "updatedAt": "2026-04-03T11:33:13.981Z",
-    "docId": "0021-roma"
+    "updatedAt": "2026-06-15T08:41:29.701Z",
+    "updatedBy": ""
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -3160,7 +3163,27 @@
     "docId": "0022-one-peice"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "0023-duck-iii",
+    "name": "Duck III",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_107.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_107.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "support",
+      "device",
+      "armrest",
+      "seat",
+      "design",
+      "rest",
+      "art",
+      "light",
+      "graphic",
+      "digital",
+      "wallpaper",
+      "render"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -3284,28 +3307,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFF000000"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_107.jpg",
-    "name": "Duck III",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_107.png",
-    "tags": [
-      "support",
-      "device",
-      "armrest",
-      "seat",
-      "design",
-      "rest",
-      "art",
-      "light",
-      "graphic",
-      "digital",
-      "wallpaper",
-      "render"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-03T14:50:22.159Z",
-    "docId": "0023-duck-iii"
+    "updatedAt": "2026-06-15T08:43:23.702Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
