@@ -19900,7 +19900,27 @@
     "docId": "blue-flowers"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "blue-mountainuuu",
+    "name": "Blue Mountain",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_231.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_231.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "glacier",
+      "ice",
+      "mountain",
+      "snow",
+      "landscape",
+      "peak",
+      "winter",
+      "range",
+      "crystal",
+      "sky",
+      "mountains",
+      "alp"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -20055,28 +20075,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_231.jpg",
-    "name": "Blue Mountain",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_231.png",
-    "tags": [
-      "glacier",
-      "ice",
-      "mountain",
-      "snow",
-      "landscape",
-      "peak",
-      "winter",
-      "range",
-      "crystal",
-      "sky",
-      "mountains",
-      "alp"
-    ],
-    "status": "published",
-    "updatedAt": "2026-05-29T22:57:37.390Z",
-    "docId": "blue-mountainuuu"
+    "updatedAt": "2026-05-29T22:57:37.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -22590,7 +22590,14 @@
     "docId": "dark-mountainsh"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "darkmanc",
+    "name": "Darkman",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_205.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_205.png",
+    "popular": true,
+    "category": "general",
+    "tags": [],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -22744,15 +22751,8 @@
       "dayEnglishFontIndex": 8,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_205.jpg",
-    "name": "Darkman",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_205.png",
-    "tags": [],
-    "status": "published",
-    "updatedAt": "2026-05-17T18:19:52.105Z",
-    "docId": "darkmanc"
+    "updatedAt": "2026-05-17T18:19:52.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
@@ -23761,7 +23761,22 @@
     "updatedBy": "mash.company.info@gmail.com"
   },
   {
-    "updatedBy": "mash.company.info@gmail.com",
+    "docId": "flower1",
+    "name": "Flower",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_188.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_188.png",
+    "popular": true,
+    "category": "general",
+    "tags": [
+      "flower",
+      "nature",
+      "simple",
+      "plain",
+      "forest",
+      "water",
+      "morning"
+    ],
+    "status": "published",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -23913,26 +23928,24 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_188.jpg",
+    "updatedAt": "2026-04-25T18:52:07.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
+  },
+  {
+    "docId": "flower2",
     "name": "Flower",
+    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_189.jpg",
+    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_189.png",
+    "popular": true,
     "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_188.png",
     "tags": [
       "flower",
       "nature",
+      "winter",
       "simple",
-      "plain",
-      "forest",
-      "water",
-      "morning"
+      "cute"
     ],
     "status": "published",
-    "updatedAt": "2026-04-25T18:52:07.699Z",
-    "docId": "flower1"
-  },
-  {
-    "updatedBy": "mash.company.info@gmail.com",
     "clockSettings": {
       "breathingSpeed": 2.4505124,
       "arabicDayStrokeGradientAngle": 0,
@@ -24084,21 +24097,8 @@
       "dayEnglishFontIndex": 0,
       "batteryColor": "0xFFFFFFFF"
     },
-    "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_189.jpg",
-    "name": "Flower",
-    "category": "general",
-    "popular": false,
-    "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_189.png",
-    "tags": [
-      "flower",
-      "nature",
-      "winter",
-      "simple",
-      "cute"
-    ],
-    "status": "published",
-    "updatedAt": "2026-04-25T19:02:23.246Z",
-    "docId": "flower2"
+    "updatedAt": "2026-04-25T19:02:23.000Z",
+    "updatedBy": "mash.company.info@gmail.com"
   },
   {
     "updatedBy": "mash.company.info@gmail.com",
