@@ -36938,7 +36938,7 @@
       "positionY": 27.892159,
       "rotation": 0.31951904,
       "opacity": 1,
-      "enableStroke": true,
+      "enableStroke": false,
       "strokeColor": "0xE2000000",
       "strokeWidth": 3.1594675,
       "strokeGradientEnabled": true,
