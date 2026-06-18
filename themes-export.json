@@ -6018,7 +6018,7 @@
     "name": "Moon",
     "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_87.jpg",
     "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_87.png",
-    "popular": true,
+    "popular": false,
     "category": "general",
     "tags": [
       "masked",
