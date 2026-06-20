@@ -31986,7 +31986,7 @@
       "hijriSizePercent": 5,
       "clockBottomLeftHeightScale": 0.7189542,
       "clock3DIntensity": 0,
-      "textGradientEnabled": true,
+      "textGradientEnabled": false,
       "weatherPositionY": 70,
       "gradientColorCount": 2,
       "parallaxStrength": 1,
