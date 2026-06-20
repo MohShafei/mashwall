@@ -8251,7 +8251,7 @@
       "batteryShowIcon": true,
       "strokeColor": "0xFF494747",
       "hijriSizePercent": 5,
-      "textGradientEnabled": true,
+      "textGradientEnabled": false,
       "gradientColorCount": 2,
       "weatherPositionY": 15.277525,
       "textColor": "0xFFE5C008",
