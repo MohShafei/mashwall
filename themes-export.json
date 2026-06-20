@@ -14107,7 +14107,7 @@
       "gradientColor5": "0xFF000000",
       "strokeColor": "0xFFE7160E",
       "hijriSizePercent": 5,
-      "textGradientEnabled": true,
+      "textGradientEnabled": false,
       "gradientColorCount": 2,
       "weatherPositionY": 11.057174,
       "textColor": "0xFFFFFFFF",
