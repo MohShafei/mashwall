@@ -49834,7 +49834,7 @@
       "textGradientColor1Position": 0,
       "textGradientColor2Position": 0.18505917,
       "textGradientColor3Position": 0.5974852,
-      "showDate": true,
+      "showDate": false,
       "dateColor": "0xFFDD1111",
       "dateFontIndex": 7,
       "dateTextSizePercent": 9.581444,
