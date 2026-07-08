@@ -50876,7 +50876,7 @@
     ],
     "status": "published",
     "clockSettings": {
-      "textColor": "0xFFFFFFFF",
+      "textColor": "0x5EFFFFFF",
       "textSizePercent": 51.759567,
       "fontIndex": 68,
       "clockStyle": 1,
@@ -50936,7 +50936,7 @@
       "rotation": 0,
       "opacity": 1,
       "enableStroke": true,
-      "strokeColor": "0xFFCE0890",
+      "strokeColor": "0xFFFFFFFF",
       "strokeWidth": 5.9180474,
       "strokeGradientEnabled": false,
       "strokeGradientColor1": "0xFFD8D2D2",
