@@ -1,6 +1,6 @@
 # ========== CONFIGURATION ==========
-$InputFolder = "D:\claude\New folder\wall\mashwall"
-$OutputFolder = "D:\claude\New folder\wall\mashwall\Thumbnails"
+$InputFolder = "D:\Test\mashwall\mashwall\Temp"
+$OutputFolder = "D:\Test\mashwall\mashwall\Temp\T"
 $MaxWidth = 360
 $Quality = 50  # 0 to 100
 $JPEGCompression = 50  # Separate compression for JPEG (lower = smaller file)
