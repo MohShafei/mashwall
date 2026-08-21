@@ -2,16 +2,20 @@
   "version": 2,
   "new_widgets": [
     {
-      "provider": "com.mash.glassywidgets.widget.MinimalAgendaWidget"
+      "provider": "com.mash.glassywidgets.widget.MinimalAgendaWidget",
+      "twoWidgetInRow":true
     },
     {
-      "provider": "com.mash.glassywidgets.widget.IosGlassWidget"
+      "provider": "com.mash.glassywidgets.widget.IosGlassWidget",
+      "twoWidgetInRow":true
     },
     {
-      "provider": "com.mash.glassywidgets.widget.TypographicDayDate4x2Widget"
+      "provider": "com.mash.glassywidgets.widget.TypographicDayDate4x2Widget",
+      "twoWidgetInRow":false
     },
     {
-      "provider": "com.mash.glassywidgets.widget.MinuteStackClockWidget"
+      "provider": "com.mash.glassywidgets.widget.MinuteStackClockWidget",
+      "twoWidgetInRow":false
     }
   ]
 }
