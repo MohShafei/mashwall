@@ -7,6 +7,14 @@
       "added_at": "2026-08-21",
       "days_new": 14,
       "label": "NEW"
+    }, 
+    {
+      id: typographic_day,
+      provider: com.mash.glassywidgets.widget.IosGlassWidget,
+      added_at: 2026-08-21,
+      days_new: 14,
+      label: NEW
     }
+      
   ]
 }
