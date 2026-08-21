@@ -2,19 +2,13 @@
   "version": 1,
   "new_widgets": [
     {
-      "id": "typographic_day",
-      "provider": "com.mash.glassywidgets.widget.TypographicDayDate4x2Widget",
-      "added_at": "2026-08-21",
-      "days_new": 14,
-      "label": "NEW"
-    }, 
+      "provider": "com.mash.glassywidgets.widget.TypographicDayDate4x2Widget"
+    },
     {
-      id: typographic_day,
-      provider: com.mash.glassywidgets.widget.IosGlassWidget,
-      added_at: 2026-08-21,
-      days_new: 14,
-      label: NEW
+      "provider": "com.mash.glassywidgets.widget.IosGlassWidget"
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.MinuteStackClockWidget"
     }
-      
   ]
 }
