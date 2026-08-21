@@ -3,7 +3,7 @@
   "new_widgets": [
     {
       "provider": "com.mash.glassywidgets.widget.MinimalAgendaWidget",
-      "twoWidgetInRow":true
+      "twoWidgetInRow":false
     },
     {
       "provider": "com.mash.glassywidgets.widget.IosGlassWidget",
@@ -15,7 +15,7 @@
     },
     {
       "provider": "com.mash.glassywidgets.widget.MinuteStackClockWidget",
-      "twoWidgetInRow":false
+      "twoWidgetInRow":true
     }
   ]
 }
