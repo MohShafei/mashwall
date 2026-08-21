@@ -2,10 +2,13 @@
   "version": 1,
   "new_widgets": [
     {
-      "provider": "com.mash.glassywidgets.widget.TypographicDayDate4x2Widget"
+      "provider": "com.mash.glassywidgets.widget.MinimalAgendaWidget"
     },
     {
       "provider": "com.mash.glassywidgets.widget.IosGlassWidget"
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.MinuteStackClockWidget"
     },
     {
       "provider": "com.mash.glassywidgets.widget.MinuteStackClockWidget"
