@@ -36,6 +36,10 @@
     {
       "provider": "com.mash.glassywidgets.widget.ArrowTime2x2Widget",
       "twoWidgetInRow":false
+    } ,
+    {
+      "provider": "com.mash.glassywidgets.widget.HeaderClockWeatherBatteryWidget",
+      "twoWidgetInRow":false
     } 
   ]
 }
