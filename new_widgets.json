@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "new_widgets": [
     {
       "provider": "com.mash.glassywidgets.widget.MinimalAgendaWidget",
@@ -15,11 +15,11 @@
     },
     {
       "provider": "com.mash.glassywidgets.widget.MinuteStackClockWidget",
-      "twoWidgetInRow":false
+      "twoWidgetInRow":true
     },
     {
       "provider": "com.mash.glassywidgets.widget.WorldClock2x2Widget",
-      "twoWidgetInRow":false
+      "twoWidgetInRow":true
     }, 
     {
       "provider": "com.mash.glassywidgets.widget.SunriseSunsetWidget",
@@ -31,11 +31,11 @@
     } ,
     {
       "provider": "com.mash.glassywidgets.widget.ArrowTime2x2Widget",
-      "twoWidgetInRow":false
+      "twoWidgetInRow":true
     } ,
     {
       "provider": "com.mash.glassywidgets.widget.HeaderClockWeatherBatteryWidget",
-      "twoWidgetInRow":false
+      "twoWidgetInRow":true
     } 
   ]
 }
