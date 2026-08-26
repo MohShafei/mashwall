@@ -61,6 +61,10 @@
       {
       "provider": "com.mash.glassywidgets.widget.widget_ai_launcher_dock",
       "twoWidgetInRow":false
+    }   ,
+      {
+      "provider": "com.mash.glassywidgets.widget.QuickLaunch2x1Widget",
+      "twoWidgetInRow":false
     } 
     
  
