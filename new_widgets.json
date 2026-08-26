@@ -36,6 +36,41 @@
     {
       "provider": "com.mash.glassywidgets.widget.HeaderClockWeatherBatteryWidget",
       "twoWidgetInRow":true
+    } ,
+      {
+      "provider": "com.mash.glassywidgets.widget.SystemInfoGridWidget",
+      "twoWidgetInRow":false
+    } ,
+      {
+      "provider": "com.mash.glassywidgets.widget.SystemInfoGridAltWidget",
+      "twoWidgetInRow":false
+    } ,
+      {
+      "provider": "com.mash.glassywidgets.widget.SystemInfoGridThreeColWidget",
+      "twoWidgetInRow":false
     } 
+    ,
+      {
+      "provider": "com.mash.glassywidgets.widget.ArrowWeatherTimeWidget",
+      "twoWidgetInRow":false
+    }   ,
+      {
+      "provider": "com.mash.glassywidgets.widget.AiLauncher4Widget",
+      "twoWidgetInRow":false
+    }   ,
+      {
+      "provider": "com.mash.glassywidgets.widget.widget_ai_launcher_dock",
+      "twoWidgetInRow":false
+    } 
+    
+ 
+    
+    
+    
+    
+    
+    
+
+    
   ]
 }
