@@ -59,7 +59,7 @@
     },
     {
       "provider": "com.mash.glassywidgets.widget.widget_ai_launcher_dock",
-      "twoWidgetInRow": false
+      "twoWidgetInRow": true
     },
     {
       "provider": "com.mash.glassywidgets.widget.QuickLaunch2x1Widget",
