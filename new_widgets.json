@@ -64,7 +64,7 @@
     }   ,
       {
       "provider": "com.mash.glassywidgets.widget.QuickLaunch2x1Widget",
-      "twoWidgetInRow":false
+      "twoWidgetInRow":true
     } 
     
  
