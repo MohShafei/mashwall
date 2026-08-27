@@ -21,6 +21,22 @@
     "name": "Calculator Suite",
     "tagline": "From quick everyday math to specialized financial and health tools, Calculator Suite puts over 200 calculators in a single, clean, and easy-to-use app. No downloads for each calculator — everything you need is here.",
     "icon": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/AppsImages/calculator.png"
+  },
+  
+
+  {
+    "package": "com.mash.habitvibe",
+    "name": "HabitVibe",
+    "tagline": "HabitVibe is a fast, offline-first habit tracker designed to help you stay consistent every day.",
+    "icon": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/AppsImages/habit.png"
+  },
+  
+
+  {
+    "package": "com.mash.billwise",
+    "name": "BillWize",
+    "tagline": "BillWise — Smart Bill Splitting & Expense Tracking... - Tired of awkward money conversations? BillWise makes splitting bills and tracking shared expenses effortless. Whether it's a dinner with friends, a weekend trip, or shared rent — BillWise keeps everyone's balance clear and up to date.  ",
+    "icon": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/AppsImages/billwize.png"
   }
 
 ]
