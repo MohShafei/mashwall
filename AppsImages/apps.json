@@ -4,5 +4,23 @@
     "name": "X Depth Live Wallpapers",
     "tagline": "brings your phone to life with beautiful layered wallpapers that create an immersive depth effect",
     "icon": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/AppsImages/xdepth.png"
+  },
+  
+  
+  {
+    "package": "com.mash.glassywidgets",
+    "name": "Colored Glass Widgets",
+        "tagline": "GlassyWidgets transforms your Android home screen with stunning glassmorphism widgets that combine frosted glass aesthetics with vibrant gradient backgrounds. Choose from 100+ unique widgets across multiple categories — all fully customizable.",
+
+    "icon": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/AppsImages/widgets.png"
+  },
+  
+
+  {
+    "package": "com.mash.calculator",
+    "name": "Calculator Suite",
+    "tagline": "From quick everyday math to specialized financial and health tools, Calculator Suite puts over 200 calculators in a single, clean, and easy-to-use app. No downloads for each calculator — everything you need is here.",
+    "icon": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/AppsImages/calculator.png"
   }
+
 ]
