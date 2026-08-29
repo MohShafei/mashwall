@@ -64,6 +64,10 @@
     {
       "provider": "com.mash.glassywidgets.widget.QuickLaunch2x1Widget",
       "twoWidgetInRow": true
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.MusicPlayerWidget",
+      "twoWidgetInRow": false
     }
   ]
 }
