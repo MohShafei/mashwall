@@ -1,0 +1,69 @@
+{
+  "version": 4,
+  "new_widgets": [
+    {
+      "provider": "com.mash.glassywidgets.widget.MinimalAgendaWidget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.IosGlassWidget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.TypographicDayDate4x2Widget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.MinuteStackClockWidget",
+      "twoWidgetInRow": true
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.WorldClock2x2Widget",
+      "twoWidgetInRow": true
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.SunriseSunsetWidget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.WeatherForecast4x2Widget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.ArrowTime2x2Widget",
+      "twoWidgetInRow": true
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.HeaderClockWeatherBatteryWidget",
+      "twoWidgetInRow": true
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.SystemInfoGridWidget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.SystemInfoGridAltWidget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.SystemInfoGridThreeColWidget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.ArrowWeatherTimeWidget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.AiLauncher4Widget", 
+      "twoWidgetInRow": true
+    },
+    {
+      "provider":  "com.mash.glassywidgets.widget.AiLauncherDockWidget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.QuickLaunch2x1Widget",
+      "twoWidgetInRow": true
+    }
+  ]
+}
