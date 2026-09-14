@@ -15,6 +15,15 @@
     "icon": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/AppsImages/widgets.png"
   },
   
+  
+  {
+    "package": "com.mash.notch",
+    "name": "NotchHub",
+        "tagline": "Your notch is dead space. NotchHub brings it to life: tap, double-tap, long-press or swipe on your camera cutout to launch apps, open Quick Settings, take notes, take screenshots, check the time, weather and media — all without leaving your current screen. Lightweight, customizable, and runs quietly in the background. Your notch finally earns its place.",
+
+    "icon": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/AppsImages/notch.png"
+  },
+  
 
   {
     "package": "com.mash.calculator",
