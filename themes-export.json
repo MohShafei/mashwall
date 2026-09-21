@@ -16776,7 +16776,7 @@
     "name": "Sunrise",
     "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_9.jpg?c=1",
     "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_9.png?s=1",
-    "popular": false,
+    "popular": true,
     "category": "general",
     "tags": [
       "masked",
