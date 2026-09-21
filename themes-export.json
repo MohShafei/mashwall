@@ -36448,7 +36448,7 @@
     "name": "Football",
     "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_250.jpg",
     "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_250.png",
-    "popular": false,
+    "popular": true,
     "category": "general",
     "tags": [
       "soccer ball",
@@ -73301,7 +73301,7 @@
     "name": "Snapdragon",
     "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_432.jpg",
     "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_432.png",
-    "popular": false,
+    "popular": true,
     "category": "general",
     "tags": [
       "cpu",
@@ -76301,7 +76301,7 @@
     "name": "Makkah",
     "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_444.jpg",
     "mask": null,
-    "popular": false,
+    "popular": true,
     "category": "general",
     "tags": [
       "islam",
