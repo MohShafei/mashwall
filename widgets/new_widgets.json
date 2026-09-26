@@ -2,13 +2,27 @@
   "version": 4,
   "new_widgets": [
     {
-      "provider": "com.mash.glassywidgets.widget.MinimalAgendaWidget",
-      "twoWidgetInRow": false
-    },
-    {
       "provider": "com.mash.glassywidgets.widget.PrayerTimesWidget",
       "twoWidgetInRow": false
     },
+    {
+      "provider": "com.mash.glassywidgets.widget.PrayerTimesArWidget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.DateCardTime4x2Widget",
+      "twoWidgetInRow": false
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.WeatherDayRow4x1Widget",
+      "twoWidgetInRow": false
+    },
+    
+    {
+      "provider": "com.mash.glassywidgets.widget.MinimalAgendaWidget",
+      "twoWidgetInRow": false
+    },
+    
     {
       "provider": "com.mash.glassywidgets.widget.IosGlassWidget",
       "twoWidgetInRow": false
