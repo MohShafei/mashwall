@@ -6,6 +6,10 @@
       "twoWidgetInRow": false
     },
     {
+      "provider": "com.mash.glassywidgets.widget.PrayerTimesWidget",
+      "twoWidgetInRow": false
+    },
+    {
       "provider": "com.mash.glassywidgets.widget.IosGlassWidget",
       "twoWidgetInRow": false
     },
