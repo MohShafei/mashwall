@@ -14937,7 +14937,7 @@
     "name": "mountain II",
     "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_21.jpg?c=g1",
     "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_21.png?hs=1",
-    "popular": false,
+    "popular": true,
     "category": "nature",
     "tags": [
       "masked",
@@ -37534,7 +37534,7 @@
     "name": "Eagle",
     "background": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/bg_256.jpg",
     "mask": "https:\/\/raw.githubusercontent.com\/MohShafei\/mashwall\/refs\/heads\/main\/m_256.png",
-    "popular": false,
+    "popular": true,
     "category": "general",
     "tags": [
       "bird",
