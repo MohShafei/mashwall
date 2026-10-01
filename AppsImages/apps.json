@@ -5,8 +5,13 @@
     "tagline": "brings your phone to life with beautiful layered wallpapers that create an immersive depth effect",
     "icon": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/AppsImages/xdepth.png"
   },
-  
-  
+    {
+    "package": "com.mash.soccerlive",
+    "name": "FloatScore – Live Football",
+    "tagline": "Keep live scores for your favorite teams in a draggable floating window—even while using other apps. Choose a single-match, all-in-one, or ticker view, and tap any match to see more details. Get an instant goal flash and vibration",
+    "icon": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/AppsImages/soccer.png"
+  },
+ 
   {
     "package": "com.mash.glassywidgets",
     "name": "Colored Glass Widgets",
