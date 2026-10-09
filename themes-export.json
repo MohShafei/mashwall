@@ -81521,7 +81521,11 @@
       "weatherTextSizePercent": 5
     },
     "category": "general",
-    "tags": [],
+    "tags": [  "cartoon",
+      "funny",
+      "kids",
+      "smart",
+    "disney"],
     "popular": true,
     "status": "published",
     "docId": "mickey_mouse_464",
