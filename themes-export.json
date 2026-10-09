@@ -81782,7 +81782,7 @@
       "weatherTextSizePercent": 5
     },
     "category": "general",
-    "tags": [],
+    "tags": ["spain","madrid" , "europe" , "football"  , "championsleague" , "soccer" , "laliga"],
     "popular": true,
     "status": "published",
     "docId": "madrid",
