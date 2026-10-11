@@ -4,7 +4,7 @@
     "name": "Rectangles",
     "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/bg_138.jpg",
     "mask": null,
-    "popular": true,
+    "popular": false,
     "category": "general",
     "tags": [
       "wallpaper",
@@ -403,7 +403,7 @@
       "forest",
       "night"
     ],
-    "popular": true,
+    "popular": false,
     "status": "published",
     "docId": "house_465",
     "updatedAt": "2026-10-09T16:56:05.183Z"
