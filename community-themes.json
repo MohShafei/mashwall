@@ -2,7 +2,7 @@
   {"author":"XXXAAS",
     "docId": "0001-rectangle",
     "name": "Rectangles",
-    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/bg_138.jpg",
+    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/bg_10.jpg",
     "mask": null,
     "popular": false,
     "category": "general",
@@ -149,8 +149,8 @@
   } ,
   {
     "name": "House",
-    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/bg_465.png",
-    "mask": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/m_465.png",
+    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/bg_11.png",
+    "mask": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/m_11.png",
     "clockSettings": {
       "arabicDayColor": "0xFFFFFFFF",
       "arabicDayEnableStroke": false,
