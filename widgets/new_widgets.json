@@ -120,14 +120,7 @@
       "provider": "com.mash.glassywidgets.widget.HeaderClockWeatherBatteryWidget",
       "twoWidgetInRow": true
     },
-    {
-      "provider": "com.mash.glassywidgets.widget.SystemInfoGridWidget",
-      "twoWidgetInRow": false
-    },
-    {
-      "provider": "com.mash.glassywidgets.widget.SystemInfoGridAltWidget",
-      "twoWidgetInRow": false
-    },
+    
     {
       "provider": "com.mash.glassywidgets.widget.SystemInfoGridThreeColWidget",
       "twoWidgetInRow": false
