@@ -5,6 +5,12 @@
       "provider": "com.mash.glassywidgets.widget.BilingualTimeDay4x2Widget",
       "twoWidgetInRow": false
     }, 
+
+    {
+      "provider": "com.mash.glassywidgets.widget.TimeBarWidget",
+      "twoWidgetInRow": false
+    }, 
+ 
     {
       "provider": "com.mash.glassywidgets.widget.WorldClockDual4x1Widget",
       "twoWidgetInRow": false
