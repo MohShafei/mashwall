@@ -4,7 +4,64 @@
     {
       "provider": "com.mash.glassywidgets.widget.BilingualTimeDay4x2Widget",
       "twoWidgetInRow": false
+    }, 
+    {
+      "provider": "com.mash.glassywidgets.widget.WorldClockDual4x1Widget",
+      "twoWidgetInRow": false
+    }, 
+
+    {
+      "provider": "com.mash.glassywidgets.widget.RingDialWidget",
+      "twoWidgetInRow": true
+    }, 
+
+    {
+      "provider": "com.mash.glassywidgets.widget.WorldClockDual2x2Widget",
+      "twoWidgetInRow": true
+    }, 
+
+
+    
+
+
+    
+    {
+      "provider": "com.mash.glassywidgets.widget.WideDialWidget",
+      "twoWidgetInRow": false
+    }, 
+    {
+      "provider": "com.mash.glassywidgets.widget.EarbudsStatusWidget",
+      "twoWidgetInRow": true
+    }, 
+    {
+      "provider": "com.mash.glassywidgets.widget.EarbudsIconWidget",
+      "twoWidgetInRow": true
     },
+    {
+      "provider": "com.mash.glassywidgets.widget.StarryNightClockWidget",
+      "twoWidgetInRow": true
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.StarryNightEnClockWidget",
+      "twoWidgetInRow": true
+    },
+    {
+      "provider": "com.mash.glassywidgets.widget.StarryNightPinkClockWidget",
+      "twoWidgetInRow": true
+    },
+    
+    {
+      "provider": "com.mash.glassywidgets.widget.SearchBarLiteWidget",
+      "twoWidgetInRow": false
+    },
+    
+    {
+      "provider": "com.mash.glassywidgets.widget.SearchBarWidget",
+      "twoWidgetInRow": false
+    },
+    
+ 
+    
       {
       "provider": "com.mash.glassywidgets.widget.PrayerTimesWidget",
       "twoWidgetInRow": false
@@ -79,14 +136,7 @@
       "provider": "com.mash.glassywidgets.widget.ArrowWeatherTimeWidget",
       "twoWidgetInRow": false
     },
-    {
-      "provider": "com.mash.glassywidgets.widget.AiLauncher4Widget", 
-      "twoWidgetInRow": true
-    },
-    {
-      "provider":  "com.mash.glassywidgets.widget.AiLauncherDockWidget",
-      "twoWidgetInRow": false
-    },
+    
     {
       "provider": "com.mash.glassywidgets.widget.QuickLaunch2x1Widget",
       "twoWidgetInRow": true
