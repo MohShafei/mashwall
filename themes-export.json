@@ -80853,7 +80853,7 @@
       "textGradientColor1Position": 0,
       "textGradientColor2Position": 0.33,
       "textGradientColor3Position": 0.7715976,
-      "showDate": true,
+      "showDate": false,
       "dateColor": "0xFFFFFFFF",
       "dateFontIndex": 88,
       "dateTextSizePercent": 9.035194,
