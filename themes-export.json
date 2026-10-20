@@ -81217,7 +81217,7 @@
       "selectedThemeIndex": -1,
       "showArabicDay": false,
       "showBattery": false,
-      "showDate": true,
+      "showDate": false,
       "showHijriDate": false,
       "showWeather": false,
       "slideInDirection": 3,
