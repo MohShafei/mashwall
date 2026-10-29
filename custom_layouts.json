@@ -3,7 +3,7 @@
 
     {
     "name": "Earth",
-    "Id": "Earth",
+    "id": "earth",
      
     "clockSettings": {
       "arabicDayColor": "0xEDFFFFFF",
