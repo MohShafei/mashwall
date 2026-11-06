@@ -90382,9 +90382,10 @@
       "weatherPositionX": 50,
       "weatherPositionY": 70,
       "weatherRotation": 0,
-      "weatherTextSizePercent": 5,
-      "price":222
+      "weatherTextSizePercent": 5
     },
+    
+      "price":222,
     "category": "general",
     "tags": [
       "Cats",
