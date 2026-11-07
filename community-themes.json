@@ -1459,7 +1459,7 @@
       "glassShadowDist": 16,
       "glassShadowStr": 0.25,
       "glassSpec": 1.6,
-      "glassStashJson": "{\"enableStroke\":false,\"enableGlow\":false,\"rotation\":4.45819091796875,\"hourRotation\":0,\"minuteRotation\":0,\"digitSpacing\":1,\"clock3DDepth\":0,\"hourGradientEnabled\":false,\"minuteGradientEnabled\":false,\"clockTopWidthScale\":1,\"clockTopLeftWidthScale\":1,\"clockTopRightWidthScale\":1,\"clockTopHeightScale\":1,\"clockTopLeftHeightScale\":1,\"clockTopRightHeightScale\":1,\"clockBottomLeftWidthScale\":1,\"clockBottomRightWidthScale\":1,\"clockBottomLeftHeightScale\":1,\"clockBottomRightHeightScale\":1,\"taperCenterX\":0,\"taperCenterY\":0}",
+      "glassStashJson": "",
       "glassTint": "0xFF1800FD",
       "glassTintMix": 0.23836017,
       "glowColor": "0xFFFFFFFF",
