@@ -1,6 +1,26 @@
 {
   "version": 4,
   "new_widgets": [
+
+
+    
+
+    
+    {
+      "provider": "com.mash.glassywidgets.widget.NextPrayer2x2Widget",
+      "twoWidgetInRow": true
+    }, 
+    
+    {
+      "provider": "com.mash.glassywidgets.widget.PrayerTimes2x2Widget",
+      "twoWidgetInRow": true
+    }, 
+    
+    {
+      "provider": "com.mash.glassywidgets.widget.ArabicTimeNextPrayer4x2Widget",
+      "twoWidgetInRow": false
+    }, 
+
     {
       "provider": "com.mash.glassywidgets.widget.BilingualTimeDay4x2Widget",
       "twoWidgetInRow": false
