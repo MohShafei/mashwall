@@ -1302,7 +1302,7 @@
   },
   {
     "name": "Arsenal",
-    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/community/bg_com_7-2.png",
+    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/community/bg_com_7-3.png",
     "mask": null,
     "clockSettings": {
       "arabicDayColor": "0xFFFFFFFF",
@@ -1566,12 +1566,12 @@
       "weatherTextSizePercent": 5
     },
     "category": "general",
-    "price": 0,
+    "price": 200,
     "tags": [],
     "popular": false,
     "status": "published",
     "docId": "arsenal_7",
     "author": "",
-    "updatedAt": "2026-11-20T21:40:24.132Z"
+    "updatedAt": "2026-11-20T21:41:55.052Z"
   }
 ]
