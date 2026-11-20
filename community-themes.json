@@ -1301,8 +1301,8 @@
     "updatedAt": "2026-10-31T18:16:20.619Z"
   },
   {
-    "name": "Arsenal",
-    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/community/bg_com_7-3.png",
+    "name": "Barcelona",
+    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/community/bg_com_7-4.png",
     "mask": null,
     "clockSettings": {
       "arabicDayColor": "0xFFFFFFFF",
@@ -1442,7 +1442,7 @@
       "enableStroke": false,
       "enableWeatherEffects": false,
       "favoriteThemeIds": [],
-      "fontIndex": 69,
+      "fontIndex": 75,
       "freeTexts": [],
       "glassAdapt": 0,
       "glassAlpha": 1,
@@ -1514,8 +1514,8 @@
       "minuteRotation": 0,
       "minuteSizePercent": 58.60245,
       "opacity": 1,
-      "positionX": 50,
-      "positionY": 26,
+      "positionX": 51.900864,
+      "positionY": 25.255869,
       "rewardedAdsDayEpoch": -1,
       "rewardedAdsTodayCount": 0,
       "rotation": 0,
@@ -1536,7 +1536,7 @@
       "taperCenterX": 0,
       "taperCenterY": 0,
       "temporaryProUntilMs": 0,
-      "textColor": "0xFFC9BA79",
+      "textColor": "0xFFF8C627",
       "textGradientAngle": 90,
       "textGradientColor1": "0xFF8A626D",
       "textGradientColor1Position": 0.22962247,
@@ -1546,10 +1546,10 @@
       "textGradientColor3Position": 0.66,
       "textGradientEnabled": false,
       "textGradientType": 0,
-      "textSizePercent": 42.773636,
+      "textSizePercent": 43.261253,
       "themeBackgroundResId": -1,
       "themeMaskResId": -1,
-      "timeSeparatorType": 0,
+      "timeSeparatorType": 3,
       "twoLineSpacing": 1.5055954,
       "useCustomGradient": false,
       "useSeparateHourMinute": true,
@@ -1570,8 +1570,8 @@
     "tags": [],
     "popular": false,
     "status": "published",
-    "docId": "arsenal_7",
-    "author": "",
-    "updatedAt": "2026-11-20T21:41:55.052Z"
+    "docId": "barcelona_7",
+    "author": "SpX",
+    "updatedAt": "2026-11-20T21:45:01.541Z"
   }
 ]
