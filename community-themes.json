@@ -1849,9 +1849,9 @@
     "updatedAt": "2026-11-20T21:49:45.322Z"
   },
   {
-    "name": "Madrid",
-    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/community/bg_com_7-7.png",
-    "mask": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/community/m_com_7-2.png",
+    "name": "PSG",
+    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/community/bg_com_10.png",
+    "mask": null,
     "clockSettings": {
       "arabicDayColor": "0xFFFFFFFF",
       "arabicDayEnableStroke": false,
@@ -1990,7 +1990,7 @@
       "enableStroke": false,
       "enableWeatherEffects": false,
       "favoriteThemeIds": [],
-      "fontIndex": 20,
+      "fontIndex": 76,
       "freeTexts": [],
       "glassAdapt": 0,
       "glassAlpha": 1,
@@ -2062,8 +2062,8 @@
       "minuteRotation": 0,
       "minuteSizePercent": 58.60245,
       "opacity": 1,
-      "positionX": 50.160213,
-      "positionY": 26.821125,
+      "positionX": 50,
+      "positionY": 28,
       "rewardedAdsDayEpoch": -1,
       "rewardedAdsTodayCount": 0,
       "rotation": 0,
@@ -2094,7 +2094,7 @@
       "textGradientColor3Position": 0.66,
       "textGradientEnabled": false,
       "textGradientType": 0,
-      "textSizePercent": 49.7962,
+      "textSizePercent": 45.209713,
       "themeBackgroundResId": -1,
       "themeMaskResId": -1,
       "timeSeparatorType": 0,
@@ -2115,11 +2115,13 @@
     },
     "category": "general",
     "price": 200,
-    "tags": [],
+    "tags": [
+      "SpX"
+    ],
     "popular": false,
     "status": "published",
-    "docId": "madrid_7",
-    "author": "SpX",
-    "updatedAt": "2026-11-20T21:51:38.957Z"
+    "docId": "psg_7",
+    "author": "",
+    "updatedAt": "2026-11-20T21:53:04.793Z"
   }
 ]
