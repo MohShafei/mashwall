@@ -1850,7 +1850,7 @@
   },
   {
     "name": "PSG",
-    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/community/bg_com_10.png",
+    "background": "https://raw.githubusercontent.com/MohShafei/mashwall/refs/heads/main/community/bg_com_9.png",
     "mask": null,
     "clockSettings": {
       "arabicDayColor": "0xFFFFFFFF",
@@ -2115,13 +2115,11 @@
     },
     "category": "general",
     "price": 200,
-    "tags": [
-      "SpX"
-    ],
+    "tags": [],
     "popular": false,
     "status": "published",
     "docId": "psg_7",
-    "author": "",
-    "updatedAt": "2026-11-20T21:53:04.793Z"
+    "author": "SpX",
+    "updatedAt": "2026-11-20T21:55:37.336Z"
   }
 ]
